@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+}
+
+ a{
+     text-decoration: none;
+     
+}
+
+footer{
+    text-align: center;
+    background-color: #F95738;
+}
+
+body{
+    background-color: #FAA916;
+    color: #462F28;
+}
+
+.class {
+    background-color: #F95738;
+}
+
+ ul{
+    list-style: none;
+    text-align: center;
+    padding: 20px;
+}
+
+ li {
+    display: inline;
+    padding: 15px;
+}
+
+.mars {
+    color: blue;
+}
